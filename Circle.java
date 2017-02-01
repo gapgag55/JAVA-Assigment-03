@@ -5,7 +5,7 @@ public class Circle {
 	
 	private double radius;
 	
-	private final double PI = 3.14;
+	private final double PI = Math.PI;
 	
 	/*
 	 * @Constructor
